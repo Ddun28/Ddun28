@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Daniel Dun</a> 👋</h1>
 </div>
-
+<span>https://raw.githubusercontent.com/Ddun28/Blue Yellow Futuristic Virtual Technology Blog Banner (1).pngspan><span>)</span>
 <!--
 **Ddun28/Ddun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
