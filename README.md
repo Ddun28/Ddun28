@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy Daniel Dun</a> 👋</h1>
 </div>
 <img src="https://github.com/Ddun28/Ddun28/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png" alt="Blue Yellow Futuristic Virtual Technology Blog Banner">
+
 ## Sobre mi
 
 - ⭐ Developer Web Fullstack ⭐ 
@@ -12,9 +13,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Ddun28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Ddun28=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Ddun28=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"/>
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddun28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <!--
