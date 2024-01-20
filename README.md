@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Daniel Dun</a> 👋</h1>
+</div>
 
 <!--
 **Ddun28/Ddun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
