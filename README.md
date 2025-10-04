@@ -7,7 +7,7 @@
 
 - ⭐ Developer Web Fullstack ⭐ 
 - ✏️ Estudiando actualmente ing. Informatica
-- 🧑‍🏫 Creador de https://medical-project-kx19.onrender.com/
+- 🧑‍🏫 Contáctame: https://portafolio-omega-three-23.vercel.app/
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
